@@ -1,18 +1,17 @@
 ### Hi there 👋
 
-<!--
-**kundusoumydevv/kundusoumydevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-  soumadevkundu@gmail.com 
+- 🔭 I’m currently working on Nasa Space Challange on ##GeoAI Reimagined: Transformative and Diverse Earth Science Applications Using Foundation Models
+- 🌱 I’m currently learning Mathematical models for Machine Learning
+
+
+- 💬 Ask me about anything 😄
+- 📫 How to reach me:
+  Instagram : emberspirit_05
+  Linkdin : https://www.linkedin.com/in/soumyadev-kundu-7b9871226/
+  Gmail : soumadevkundu@gmail.com 
   
 - 😄 Pronouns: He
 - ⚡ Fun fact: Gamer
--->
+
